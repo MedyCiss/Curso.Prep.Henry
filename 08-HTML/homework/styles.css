@@ -1,0 +1,36 @@
+body{
+    height:1051px;
+    background-image: url("https://i.ibb.co/9b31HkR/under-the-snow-by-ryky-d9qw0pm.png");
+    background-size: 1440px; /* Es lo mismo que poner 90rem (1rem --> 16px) */
+    
+}
+body div{
+    text-align: center;
+    margin: 10px auto;
+    padding: 30px;
+}
+.divClass h1{
+    color: maroon;
+}
+
+.divClass  #spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: darkgoldenrod;
+    padding: 50px;
+    border: solid 5px cadetblue;
+}
+
+#thirdDiv ul li img{
+    min-height: 300px;
+    width: 400px;
+}
+
+/* *{
+    border: solid 1px red;
+}  */
